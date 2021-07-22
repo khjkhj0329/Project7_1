@@ -13,10 +13,10 @@
         android:title="@string/item_btn_change">
         <menu>
             <item
-                android:id="item_rotate"
+                android:id="@+id/item_rotate"
                 android:title="@string/sub_item_rotate"/>
             <item
-                android:id="item_zoom"
+                android:id="@+id/item_zoom"
                 android:title="@string/sub_item_zoom"/>
         </menu>
     </item>
