@@ -8,5 +8,9 @@
     <string name="item_btn_change">버튼 변경</string>
     <string name="sub_item_rotate">버튼 45도 회전</string>
     <string name="sub_item_zoom">버튼 2배 확대</string>
-    <string name="text_angle">회전 각도 입력:</string>
+    <string name="text_angle">회전 각도 입력: </string>
+    <string name="item_pic_rotate">그림 회전</string>
+    <string name="item_place_1">파도보고 싶다 바다</string>
+    <string name="item_place_2">빠지고 싶다 계곡</string>
+    <string name="item_place_3">미끄럼틀 최고! 워터파크</string>
 </resources>
